@@ -119,7 +119,6 @@ My-Obsidian-Vault/
 ## **NPM Modules Used**
 
 - **node-fetch**: For making HTTP requests to the LimaCharlie API.
-- **dotenv**: For securely loading environment variables from a `.env` file.
 - **express**: For serving the proxy server.
 
 Install these dependencies by running:
