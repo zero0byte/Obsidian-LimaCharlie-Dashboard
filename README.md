@@ -124,7 +124,7 @@ My-Obsidian-Vault/
 Install these dependencies by running:
 
 ```bash
-npm install node-fetch dotenv express
+npm install node-fetch express
 ```
 
 These modules help with API requests, environment configuration, and serving the local proxy server.
